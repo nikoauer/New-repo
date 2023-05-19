@@ -1,13 +1,16 @@
+/* This selects all elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* This sets the background colour to a light grey */
 body {
     background-color: #d9dcd6;
 }
 
+/* These rules set the value of the top head of the website */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,17 @@ body {
     color: #ffffff;
 }
 
+/* This controls the font and display of the h1 title attribute for the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* This sets the colour of the seo in Horiseon */
 #seo {
     color: #d9dcd6;
 }
-
+ /* These rules set the values the navigation list on the top right hand side of the website */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +37,29 @@ body {
     font-size: 20px;
 }
 
+/* This controls the display of the navagitation list */
 .header nav ul {
     list-style-type: none;
 }
 
+/* This controls the spacing between the list items on the left hand side of the website */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* These rules are set to the anchors */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* This controls the font size for all paragraph elements  */
 p {
     font-size: 16px;
 }
 
+/* These rules apply to the large opening image of the website */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,23 +69,27 @@ p {
     background-position: center;
 }
 
+/* These rules put main section images to the left*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* These rules put main section images to the right*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* These rules control the placement of the main contents */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.search-engine-optimization {
+/* These rules control the sections of the main contents */
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,33 +98,18 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
+/* This rules controls the main contents image height */
 .content img {
     max-height: 200px;
 }
 
+/* These rules control the main section h2 title attribute */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* These control the aside benefits positioning, colour and font */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,21 +123,25 @@ p {
     margin-bottom: 50px
 }
 
+/* This controls the padded gaps between each paragraph */
 .benefits p {
     padding-bottom: 40px;
 }
 
+/* This controls the benefits h3 title attributes */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* This controls the benefits img sizing and position */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* This controls the padding and font of the footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -146,6 +149,7 @@ p {
     text-align: center;
 }
 
+/* This controls the footer font size for the h2 title attribute */
 .footer h2 {
     font-size: 20px;
 }
