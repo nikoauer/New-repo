@@ -14,7 +14,7 @@ The changes that were included were:
 
 ## Usage
 
-Link to Github Pages URL: 
+Link to Github Pages URL: https://nikoauer.github.io/Refactored-Horiseon-Website/
 
 Screenshots of the website front page.
 
