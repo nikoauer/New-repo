@@ -28,7 +28,7 @@ body {
 #seo {
     color: #d9dcd6;
 }
- /* These rules set the values to the navigation list on the top right hand side of the website */
+/* These rules set the values to the navigation list on the top right hand side of the website */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,7 +86,7 @@ p {
     color: #ffffff;
 }
 
-/* This rules controls the main contents image height */
+/* This rule controls the main contents image height */
 .content img {
     max-height: 200px;
 }
