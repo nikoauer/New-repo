@@ -1,5 +1,4 @@
 # Horiseon Refactored Starter Code
-# <Your-Project-Title>
 
 ## Description
 
@@ -15,12 +14,16 @@ The changes that were included were:
 
 ## Usage
 
-Screenshots of the website front page. 
-![alt ](assets/images/screenshot-1.png)
+Link to Github Pages URL: 
 
-![alt ](assets/images/screenshot-2.png)
+Screenshots of the website front page.
+
+![alt text](assets/images/screenshot-1.png "Top half of the website")
+
+![alt text](assets/images/screenshot-2.png "Lower half of the website") 
 
 ## Credits
+
 The initial first code was composed here by Xandromus:
 https://github.com/coding-boot-camp/urban-octo-telegram
 
