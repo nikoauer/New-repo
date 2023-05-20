@@ -18,9 +18,9 @@ Link to Github Pages URL: https://nikoauer.github.io/Refactored-Horiseon-Website
 
 Screenshots of the website front page.
 
-![alt text](assets/images/screenshot-1.png "Top half of the website")
+![alt text](/Develop/assets/images/Screenshot-1.png "Top half of the website")
 
-![alt text](assets/images/screenshot-2.png "Lower half of the website") 
+![alt text](/Develop/assets/images/Screenshot-2.png "Lower half of the website") 
 
 ## Credits
 
